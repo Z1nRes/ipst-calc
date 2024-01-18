@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./css/tailwind/index.css -o ./css/index.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
